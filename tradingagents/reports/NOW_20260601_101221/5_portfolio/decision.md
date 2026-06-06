@@ -1,0 +1,11 @@
+**Rating**: Overweight
+
+**Executive Summary**: Hold current position and do not chase the $124 price. Set a tiered accumulation ladder: 40% of target at $118–120 (declining volume only), 40% at $112–115, 20% at $105–108. Deploy only after the RSI 73.58 and $9-above-Bollinger overextension resolves. If oil spikes above $100 on Iran escalation, pause all Tier 2/3 buying until macro settles. Invalidation level: close below $98.
+
+**Investment Thesis**: The structural bull case won the debate on three decisive fronts. First, the volume signature is inconsistent with a pure short squeeze: the MACD crossover confirmed May 21 (before Jensen Huang's catalyst), the VWMA had been rising from $90 to $102 over three weeks, and the 67.5M-share spike (3x normal) followed by sustained 47M/day volume looks like accumulation punctuated by a catalyst, not a one-day cover-and-fade. Second, the core bear thesis — that agentic AI would bypass ServiceNow's workflow layer — was directly countered by Jensen Huang naming NOW the "operating system for enterprise AI agents." That endorsement carries structural weight the market repriced on 67.5M shares. Third, the fundamental math is compelling: forward P/E 27x with PEG 1.21, $4.5B FCF expanding toward 40% margins, and $2.225B in buybacks in a single quarter — net accretive against ~20-21M shares of annual SBC dilution.
+
+However, the rating is Overweight rather than Buy because the technical overextension (RSI 73.58, price $9 above upper Bollinger Band, 14% single-day spike, 100% bullish StockTwits with zero bears) creates a high-probability near-term pullback of 5–10%. The 200-day SMA is still declining at $141.47, meaning the long-term trend has not yet confirmed a reversal. The tiered accumulation plan reconciles the strong fundamentals with the overbought technicals: it respects the >70% probability of mean reversion while hedging the 30% tail risk of a deeper macro-driven drawdown. The graduated sizing (40/40/20) incorporates the Neutral Analyst's volume filter on Tier 1 and the Conservative Analyst's macro condition on Tier 3, producing a plan that works across shallow, moderate, and deep pullback scenarios without chasing euphoria.
+
+**Price Target**: 141.0
+
+**Time Horizon**: 6-12 months

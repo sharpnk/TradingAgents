@@ -1,0 +1,13 @@
+**Recommendation**: Underweight
+
+**Rationale**: This was an exhaustive debate between a Bull focused on MDA's structural transformation and a Bear focused on valuation, cash-flow quality, and near-term catalyst risk. The Bear carried the stronger argument: four consecutive quarters of negative FCF, gross margin compression from 35.6% to 25.1%, a forward P/E that still demands near-perfect execution (38-49x on realistic estimates), and a catalyst vacuum between now and Q2 earnings in August. The Bull landed valid points—the Montreal digital satellite plant is a genuine first-mover asset, the BAE Systems selection validates the factory, and the $544M cash position provides a floor. But those strengths don't justify paying $40 today when the technical picture shows broken short-term momentum (10-EMA breakdown, declining MACD, RSI falling from 82 to 53) and the next positive catalyst is weeks away. The stock is more likely to test $34-37 before mounting a sustainable recovery. For existing holders, selling into any bounce toward $43-45 is prudent; for new buyers, patience is rewarded.
+
+**Strategic Actions**: 1. Existing holders: Trim 30-50% of the position into any strength, specifically at $43-45 if price recovers toward the 10-EMA / VWMA. Keep a core position to retain exposure to the long-term space-infrastructure thesis.
+
+2. New buyers: Do not initiate a full position at current levels. Wait for one of two triggers before committing capital: (a) a pullback to $34-37 (the rising 50-SMA zone and prior consolidation area), or (b) a confirmed fundamental inflection—specifically a quarter with positive free cash flow or gross margin stabilization above 25% with revenue growth holding above 25% YoY.
+
+3. If taking a position now against this recommendation (e.g., a small starter stake), limit it to 2% of portfolio with a hard stop at $36 and a profit target at $45. This is a tactical trade, not a core investment at current levels.
+
+4. Monitor for re-rating catalysts: Q2 2026 earnings (August), concrete BAE contract value announcement, SpaceX IPO pricing date, or a new sovereign constellation win. Any of these could shift the thesis back toward Overweight or Buy if accompanied by improving cash-flow metrics.
+
+5. Downside risk management: If the stock breaks below $34 (50-SMA) on above-average volume, the bull case is compromised and a full exit should be considered. The $31.87 lower Bollinger Band and $28-30 pre-rally support are the next levels to watch in that scenario.

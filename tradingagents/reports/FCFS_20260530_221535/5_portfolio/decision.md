@@ -1,0 +1,13 @@
+**Rating**: Overweight
+
+**Executive Summary**: Initiate or add to FCFS with a disciplined, phased approach. Commit 25–35% of the full intended position near $219, place a hard stop at $207 (just below the rising 50‑day SMA and 2x ATR), and reserve additional capital to scale in only after the stock confirms support—either at the 50‑day SMA on a bounce with declining volume, or on a deeper washout toward $200–$210. The structural bull case is intact, but the velocity of the technical breakdown demands patience on the first entry.
+
+**Investment Thesis**: The bull analyst correctly anchors the case in fundamentals that are genuinely scarce: 30% EPS growth, a forward P/E of 17.7x yielding a PEG of 1.17, trailing free cash flow of $664.8M for a ~6.9% FCF yield, and a 70% YoY loan-portfolio surge to $851M. Management confidence is concrete—$50M in Q1 buybacks, raised full‑year guidance, and a $750M debt refinancing at fixed rates through 2034. The macro backdrop (record credit card debt, depleted savings, gas near $4.16) is a structural tailwind, not a one‑month story, and the 0.53 beta makes the name defensive.
+
+However, the bear analyst’s technical warnings are equally evidence‑based and cannot be dismissed: the MACD collapsed 52% from its peak in 13 days with the steepest two‑day drop in the 30‑day series, RSI plunged 28 points to 48.2, and two consecutive sessions of elevated volume (433K–435K shares vs. a ~275K average) on declining price fit the textbook definition of institutional distribution. No consolidation day has occurred yet, and the January analog required three weeks of sideways action before recovery. The 50‑day SMA at ~$211 is only 3.7% below current levels; a break there opens a path to $200 and ultimately the 200‑day SMA at $174.
+
+The neutral analyst’s middle path—reducing the initial tranche to 20–25% with a tighter stop at $207 and making further adds conditional on a confirmed bounce (daily close above $215, declining volume, RSI reclaiming 50)—best reconciles the powerful long‑term trend with the near‑term distribution signal. This framework respects the bull’s “30% grower at 17.7x” thesis while preventing the firm from committing 50–60% of capital into an accelerating momentum decline. The July Q2 earnings release is the natural catalyst that should resolve the technical picture; entering now with a modest, stop‑protected position keeps us exposed if the 50‑day holds, while preserving dry powder for a far better risk/reward entry if the correction deepens.
+
+**Price Target**: 236.0
+
+**Time Horizon**: 3–6 months

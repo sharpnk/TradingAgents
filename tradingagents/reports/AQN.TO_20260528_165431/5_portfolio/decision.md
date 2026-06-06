@@ -1,0 +1,13 @@
+**Rating**: Underweight
+
+**Executive Summary**: Reduce AQN.TO position by 40-50% at current levels (~$8.22). Place a hard stop on the remaining position at $7.90. Do not add on weakness or average down. Re-evaluate at Q2 2026 earnings (expected August 2026). This preserves a placeholder for the turnaround scenario — which has genuine seeds in the Q1 sequential improvement and deleveraging progress — while meaningfully cutting exposure to the near-term risks of the death cross, negative FCF, and a potential dividend cut.
+
+**Investment Thesis**: The debate confirmed that AQN.TO's risk-reward is asymmetrically negative in the near term, but a full exit forfeits a plausible recovery. The bear case rests on structural cash-flow deterioration: TTM FCF of -$274M (worse than 2025's -$178M), interest coverage at just 2.93x against a 2.5x covenant, and a $212M dividend that is entirely debt-funded. The technical picture reinforces this — the stock trades below both the 50 SMA (~$8.50) and 200 SMA (~$8.30), with a death cross likely within three weeks given the 50 SMA's accelerating decline. Volume on bounce days (2.2-2.6M shares) is anemic compared to distribution days (4.89M), confirming institutional disinterest.
+
+However, the bull case has legitimate pillars that prevent a Sell rating. The Q1 2026 YoY net income decline of 11% is distorted by one-time gains in Q1 2025 from the renewables sale cleanup; the real trajectory is sequential — revenue +26% QoQ, net income quadrupled, EBITDA improved. D/E has fallen from 149% to 133%, demonstrating that management is executing on deleveraging. The MACD histogram has flipped positive, RSI double-dipped into oversold territory (27, 28), and the VWMA has turned slightly bullish — this combination has historically preceded 5-7% relief rallies in oversold utilities. Sentiment silence, while a near-term headwind, also means an absence of negative catalysts that could trigger a gap-down.
+
+The 40-50% trim balances these cross-currents: it cuts exposure to the death cross and FCF risks by nearly half, while retaining enough optionality to capture a bounce to $8.30-$8.50 if the oversold technical setup plays out. The $7.90 stop — just below the May 15 low of $7.94 — prevents a manageable trim from becoming a deep wound. Re-evaluation triggers are concrete: a weekly close above the 50 SMA, MACD crossover into positive territory, and a quarter of positive FCF or material debt reduction. Until those triggers fire, capital is better deployed in utilities with covered dividends and positive FCF.
+
+**Price Target**: 8.5
+
+**Time Horizon**: Re-evaluate at Q2 2026 earnings (August 2026); near-term upside capped at 50 SMA (~$8.50)

@@ -1,0 +1,17 @@
+**Rating**: Underweight
+
+**Executive Summary**: Reduce the MU position by 50% at current levels (~$1,004), locking in the bulk of the 271% YTD gain. Place a hard stop at $850 on the remaining 50% to protect against a structural trend breakdown while allowing the position to survive normal volatility (2.5x ATR). Do not add new money at these levels; set a standing limit order to rebuild at $860–$880, near the VWMA. Reassess the Underweight rating after the upcoming earnings report — a beat-and-raise with sustained margins would warrant a review; margin compression would accelerate further trimming toward a full exit.
+
+**Investment Thesis**: The bear won the risk-management debate, but the bull's fundamental facts prevent a full Sell. Three pillars anchor this Underweight decision:
+
+**1. Margin normalization is a matter of when, not if.** The 67.6% operating margin has no precedent in memory-manufacturing history. Samsung and SK Hynix are committing a combined $35B+ to HBM capacity expansion, and supply will catch up by 2027–2028. At a normalized 35% operating margin (still excellent), the forward P/E balloons from the headline 9.6x to approximately 48x — the stock is priced for peak-cycle earnings at peak-cycle multiples. Barron's explicit warning of a memory price ceiling corroborates this risk.
+
+**2. Technical extremes are historically associated with sharp reversals.** RSI at 82, price 14.7% above the 10 EMA, 81% above the 50 SMA, and an ATR of $57 that has expanded 134% in a month. These are not gentle-consolidation fingerprints; they are the statistical signature of parabolic exhaustion. While the MACD continues making new highs without bearish divergence — the bull's strongest counter — this is a lagging indicator that can persist through the early stages of a rollover. The Broadcom sympathy selloff, while imperfect as a direct read-across, demonstrates that AI-sector valuations are priced for perfection and vulnerable to rapid re-rating on any stumble.
+
+**3. The structural HBM thesis provides a genuine floor that prior memory cycles lacked.** Co-engineering with customers, multi-year qualification moats, and explosive AI-driven demand create a demand visibility out to 2027 that commodity DRAM never had. This is why Underweight — not Sell — is the right call. A Sell would require conviction that the cycle turns imminently, and the data does not support that precision. The forward P/E cushion, the net cash balance sheet, and the $23.86B quarterly revenue run rate mean the stock is not a short candidate.
+
+**Sentiment divergence reinforces the trim.** Retail on StockTwits is 84% bullish and buying the dip, while news headlines have turned bearish post-Broadcom. This setup — retail enthusiasm absorbing institutional distribution — historically resolves lower. The Reddit silence further suggests speculative energy has rotated elsewhere.
+
+**Execution logic:** Selling 50% now monetizes the parabolic move at the point of maximum technical extension. The $850 stop sits below the VWMA ($856) and 20 SMA ($822), meaning it triggers only on a genuine structural breakdown, not normal volatility. The $860–$880 re-entry band targets a 14–18% discount from current levels, materially improving margin of safety. The earnings catalyst in the coming weeks is the pivotal event: a beat could compress the forward P/E further and validate the structural thesis, while any margin deceleration would confirm the bear case and accelerate the exit.
+
+**Time Horizon**: 3-6 months; reassess immediately post-earnings

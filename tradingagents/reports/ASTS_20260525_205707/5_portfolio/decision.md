@@ -1,0 +1,17 @@
+**Rating**: Underweight
+
+**Executive Summary**: Reduce ASTS exposure to 1–2% of portfolio from current levels, executing sales into the prevailing strength at $106. The stock trades at extreme valuation (484x P/S), is technically overextended (19.5% above the 10 EMA, above the upper Bollinger Band, RSI at 68), and faces a binary June catalyst that is being "bought on the rumor" amid euphoric retail sentiment. Do not initiate new longs or short outright. Use any squeeze-driven spike above $120 to trim further. Re-evaluate after the June launch and Q2 2026 earnings for signs of a sustainable revenue trajectory.
+
+**Investment Thesis**: The bear case carries this debate on the weight of hard numbers. The 484x price-to-sales ratio on $85M TTM revenue is unsustainable without flawless multi-year execution. The 73% sequential revenue collapse from Q4 ($54.3M) to Q1 ($14.7M) signals lumpy, non-recurring revenue rather than a smooth growth trajectory. Cash burn of ~$327M per quarter consumes the $3B runway in roughly 7–8 quarters absent a dramatic inflection. Share dilution of 43% year-over-year (90M to 298M shares over two years) is a real cost that the bull side never adequately addressed.
+
+On technicals, the setup is decidedly unfavorable for new longs: price at $106 sits $25 above the VWMA ($81), above the upper Bollinger Band, and 19.5% above the 10 EMA. Volume declining from 39.7M to 30.6M on the breakout high is a textbook negative divergence. The RSI at 68 approaches overbought territory. These signals have historically resolved through mean reversion rather than sustained upside continuation.
+
+The bear's historical framing is particularly compelling: Iridium, Globalstar, Nikola, and WeWork all had massive TAM narratives, big-name partnerships, cash piles, and working prototypes — and still went to zero. The bull never convincingly explained why ASTS at 484x sales avoids that fate.
+
+However, a full Sell overreaches for three reasons. First, the technology is real — ASTS has a working purpose-built direct-to-cell satellite, and carrier JVs with AT&T, Verizon, Vodafone, and Orange provide genuine strategic validation even if not yet reflected in booked revenue. Second, the SpaceX IPO filing is a genuine sector catalyst that lifts all boats, and the short-squeeze mechanics (high short interest, stacked June call open interest, beta of 2.6) create real near-term upside risk that makes outright shorting dangerous. Third, year-over-year revenue growth from $0.7M in Q1 2025 to $14.7M in Q1 2026, while lumpy, is directionally positive and could accelerate if the June launch succeeds.
+
+The Underweight rating balances these cross-currents: respect the bear's valuation and technical discipline while preserving enough exposure to capture asymmetric upside should the catalyst deliver. The investment case will be re-evaluated after two binary events: the June satellite launch and Q2 2026 earnings, which together will determine whether revenue trajectory justifies a re-rating toward Overweight or confirms the bear case and merits a downgrade to Sell.
+
+**Price Target**: 85.0
+
+**Time Horizon**: 3-6 months, with re-evaluation after June launch and Q2 2026 earnings
