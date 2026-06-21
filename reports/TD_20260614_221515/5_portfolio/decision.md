@@ -1,0 +1,19 @@
+**Rating**: Hold
+
+**Executive Summary**: Maintain existing TD positions at current levels (~$117). Do not add full positions at all-time highs with RSI at 71.8, price touching the upper Bollinger Band, and MACD momentum decelerating. For new money, place a starter limit order at $114 (near the 10-day EMA) for 25-33% of intended allocation, with a second rung at $112.50 (near the 20-day SMA). Set a hard stop at $109 across all positions. Reassess after Q3 FY2026 earnings: a normalized EPS print above $2.40 with buybacks above $4B/quarter would warrant an upgrade to Overweight; negative NII growth or rising provisions would support a downgrade to Underweight.
+
+**Investment Thesis**: The fundamental and technical pictures are in direct tension, and neither the bull nor the bear case carried the debate decisively.
+
+**Bull case strengths (from Aggressive Analyst, validated by Neutral):** Normalized earnings are genuinely strong — Q2 FY2026 annualizes to ~$17.8B, implying normalized EPS of ~$9.50–$9.65 and a realistic forward P/E of 12–13x, not the consensus-implied 15.3x. NII grew 0.8% QoQ despite rate cuts, signalling balance-sheet resilience. The buyback program ($11.8B in H1 FY2026) is supported by a CET1 ratio comfortably above 14%. The dividend was raised, management is signalling conviction, and $50B+ has been returned to shareholders over two years. The US-Iran peace deal reduces systemic credit risk and provides a wealth-management tailwind. PEG of 1.01 suggests fair value, not a bubble.
+
+**Bear case strengths (from Conservative Analyst, validated by Neutral):** The technical setup is genuinely stretched — RSI at 71.8, price touching the upper Bollinger Band, MACD histogram at +0.146 versus prior peak of +0.242 (a lower high forming potential bearish divergence). The golden cross gap of $15.39 is historically associated with 8–15% drawdowns within 60 days. Total revenue fell 3.6% QoQ and the rate of sequential normalized earnings improvement is decelerating ($250M vs. $400M in prior-year Q1→Q2). NII growth of 0.8% is anemic in absolute terms. The AT1 issuance at 5.918% to fund buybacks raises capital-management questions. Canada is in a technical recession, and forward estimates depend on a recovery not yet in the data. The stock has rallied 67% from its 52-week low with near-silence on social platforms, suggesting institutional rather than retail positioning — meaning the next catalyst must be genuinely new information.
+
+**Where the bull fell short:** The technical rebuttals were weaker than the bear's case. Calling the MACD histogram turn a "momentum reset" rather than bearish divergence felt like spin. Historical analogs for wide golden cross gaps point to near-term pullbacks. Bull EPS estimates require everything to go right.
+
+**Where the bear fell short:** Insistence on consensus forward EPS of $7.67 to derive 15.3x multiple is misleading when normalized earnings are clearly running higher. The AT1 issuance was overplayed as a distress signal — it is standard capital management. Dismissing the US-Iran peace deal as a net headwind undervalues systemic risk reduction.
+
+**Net assessment:** TD is not overvalued on normalized earnings, supporting current levels. But the technical picture screams caution and a high probability of a near-term pullback. Neither side carried the argument decisively enough to warrant a directional call. The appropriate stance is Hold — maintain existing positions, let the technical overextension resolve, and reassess on the pullback or on new catalysts (Q3 earnings, macro developments). Laddered entries for new money at $114 and $112.50, with a hard stop at $109, balance the fundamental strength against the technical risk.
+
+**Price Target**: 125.0
+
+**Time Horizon**: 3-6 months

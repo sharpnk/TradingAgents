@@ -1,0 +1,23 @@
+**Recommendation**: Underweight
+
+**Rationale**: This was a close debate between two well-argued sides. The Bull built a strong statistical case: RSI below 20 has a 100% hit rate for 40%+ rallies within three months across seven historical instances, the volume spike on June 4 ($63.8B) is consistent with capitulation, Bollinger Band bandwidth at extreme wides historically precedes mean reversion, and the long-term structural catalysts—halving supply scarcity, institutional adoption via the Morgan Stanley/Galaxy partnership, and finite supply—remain intact. The sentiment score of 2.0/10 reflects extreme fear, which is the classic soil for bottoms.
+
+However, the Bear's arguments carry more weight on the evidence available *right now*. The Death Cross is confirmed and widening (50 SMA $76,664 vs 200 SMA $78,933). The MACD histogram is still accelerating lower (-1,347 on June 4 with zero contraction days), meaning momentum is intensifying, not exhausting. The Bollinger Bands are fanning out, and price is accelerating *away* from the lower band—not toward it. The macro backdrop is genuinely deteriorating: a blowout jobs report (172K vs ~85K expected) has repriced rate expectations from "higher for longer" to "hikes are back on the table," with the 2-year yield spiking 35bps in a single day. The Iran conflict is pushing oil higher, adding inflation pressure. The Nasdaq dropped 4.18% in one session, confirming Bitcoin's high-beta risk-asset correlation. Critically, there is zero bullish divergence on any oscillator—no higher low on RSI, no MACD turn, no reclamation of any moving average. The Strategy sale (32 BTC) is trivial in size, but the symbolic crack in the "never sell" narrative and the broader risk of cascading liquidations from $25B in underwater open interest are real.
+
+The Bull's thesis is ultimately a prediction that *this time will be like the others*—a bet on historical patterns repeating. The Bear's thesis is a description of *what the data shows today*—accelerating downside momentum with intensifying macro headwinds. In a contest between historical analogy and real-time trend, the trend deserves more weight until it shows signs of exhaustion. Waiting for even one green MACD histogram bar or a close back above the 10 EMA (~$69,900) costs 9-10% of any bounce but protects against 20-30% further downside that the current momentum pattern suggests is possible. The risk/reward for adding here is unfavorable; however, the extreme oversold conditions and historical precedent argue against a full exit, as a violent snap-back rally could materialize with little warning. The prudent course is to trim exposure, preserve capital, and prepare to redeploy when the reversal structure begins to form.
+
+**Strategic Actions**: 1. **Reduce position size by 25-33%.** If currently holding a full allocation to BTC-USD, trim to a modest underweight. Execute during periods of relative stability or on any bounce toward the 10 EMA (~$69,900) rather than into weakness. This reduces downside exposure while retaining participation if the contrarian snap-back materializes.
+
+2. **Set a hard stop-loss on remaining position at a weekly close below $58,000.** A confirmed break of the February 2026 lows (~$60K) on a weekly timeframe opens the door to the pre-election range of $50K-$55K. Respect that level—if it breaks, reduce further.
+
+3. **Define re-entry criteria for redeploying capital:**
+   - MACD histogram prints at least one green (contracting) bar, signaling momentum deceleration.
+   - RSI recovers above 30, confirming that the extreme oversold phase has ended.
+   - Price closes above the 10 EMA (currently ~$69,922), establishing a short-term trend change.
+   - Ideally, a higher low forms with bullish RSI divergence on the subsequent pullback.
+
+4. **Scale back in gradually.** On confirmation of the above signals, redeploy in thirds: one-third on the initial signal, one-third on a successful retest of support, and one-third on a break above the 50-day SMA. This balances the risk of a false signal against the cost of missing the move.
+
+5. **Monitor macro catalysts closely.** The next CPI print, PPI, and the June FOMC meeting are binary events that will either validate or unwind the current rate-hike repricing. If CPI comes in soft, the macro headwind driving this sell-off could reverse violently—be prepared to accelerate re-entry in that scenario. If CPI is hot, expect further downside and hold the underweight.
+
+6. **Ignore the Strategy noise.** The 32 BTC sale is a non-event; do not let it influence positioning decisions. Focus instead on ETF flow data, open interest trends, and derivatives funding rates as real-time sentiment gauges.

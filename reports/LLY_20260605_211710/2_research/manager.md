@@ -1,0 +1,13 @@
+**Recommendation**: Buy
+
+**Rationale**: The bull thesis convincingly won the debate. LLY is trading at 25x forward earnings with a PEG well below 1.0, growing revenue at 55%+ and EPS at 170% YoY in the most recent quarter. The $150B GLP-1 TAM is only 2% penetrated globally, and Lilly's manufacturing moat ($10.85B annual CapEx, 4-5 year facility lead times) is a durable competitive advantage that the bear failed to credibly undermine. The technical picture shows a healthy consolidation after a 22% surge—not a reversal pattern. MACD line remains above signal, the golden cross is intact, and the V-bounce from $1,052 on strong volume confirmed dip-buying conviction. The bear's best arguments—growth deceleration, debt leverage, and competitive threats—are real risks but are already discounted at 25x forward earnings and are manageable within the company's massive cash flow profile. The risk/reward is tilted positive: base case supports $1,200-1,350 over 12 months, with downside limited by the $1,040-1,052 support zone.
+
+**Strategic Actions**: 1. **Initiate or add to position** at current levels ($1,125) for a core holding sized at 50% of the intended full position. The remaining 50% should be layered in on any pullback to the $1,070-1,090 zone, where the 10-day EMA and VWMA converge as technical support.
+
+2. **Set a hard stop at $1,035**—just below the June 2 V-bounce low of $1,052 and well below the 10-day EMA, allowing for normal volatility while protecting against a genuine breakdown.
+
+3. **Near-term upside target: $1,200** (break above May 28 high of $1,149). **12-month target: $1,350** (consistent with 30x multiple on $45+ EPS as growth continues). Trail the stop upward to breakeven once $1,175 is breached.
+
+4. **Key catalysts to monitor:** Orforglipron Phase 3 data (oral GLP-1), Q2 2026 earnings (confirming or refuting the deceleration thesis), and any IRA negotiation headlines. A positive Phase 3 readout would justify increasing the position size materially; a negative one would trigger the stop.
+
+5. **Position sizing:** Given the 0.517 beta and defensive characteristics, LLY should represent a core overweight within healthcare allocation. Size the position to withstand a 7-8% drawdown to the stop level ($1,125 to $1,035) without exceeding portfolio risk limits. Consider a 2-3% portfolio weight for a concentrated strategy, or benchmark-relative overweight for institutional mandates.

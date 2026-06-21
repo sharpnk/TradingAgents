@@ -1,0 +1,15 @@
+**Recommendation**: Buy
+
+**Rationale**: This was a close and well-fought debate, but the bull case carried the argument where it matters most: the fundamental data. The bear analyst raised legitimate concerns—the MACD crossover, volume distribution on red days, zero bears on StockTwits, and the danger of cyclical peak multiples—but was unable to produce a single concrete data point showing HBM demand weakening, memory pricing rolling over, or orders being canceled. Every specific, verifiable metric (revenue +75% QoQ, gross margins 74.4%, free cash flow $5.52B in a quarter, net cash $3.11B, forward P/E 8.58x, analyst targets rising to $1,250–$1,500) supports the bull thesis. The bear case rests heavily on historical memory-cycle analogies and technical signals, while the bull case identifies a genuine structural shift: HBM is co-engineered with NVIDIA GPUs, is not interchangeable commodity memory, and has multi-year demand visibility confirmed by the most important voice in the ecosystem (NVIDIA’s CEO). The 17% pullback from the ATH appears driven by identifiable temporary factors (Oracle’s company-specific miss, SpaceX IPO rotation), not a thesis break. The bears won the argument on near-term technical caution—the stock is stretched, sentiment is one-sided, and the June 24 earnings event carries binary risk—but could not defeat the fundamental logic that an 8.58x forward multiple on 74% gross margins and 75% sequential revenue growth is a rare mispricing. The recommendation is Buy with the acknowledgment that position sizing and entry discipline are critical given elevated volatility (ATR $73, beta 2.17).
+
+**Strategic Actions**: 1. Establish or add to the MU position at current levels (~$891), sizing the position to account for elevated volatility—consider a half-size initial entry given the stretched technical setup (37% above 50-day SMA, MACD still deepening).
+
+2. Hold a reserve (25–33% of intended position size) to add on any further weakness toward the rising 50-day SMA (currently $652, rising ~$11/day). A pullback to $750–$800 would represent an attractive secondary entry.
+
+3. Maintain the full position through the June 24 earnings catalyst. The fundamental bar has been partially reset by the 17% pullback, and forward guidance on HBM4 ramp, the New York megafab timeline, and 2027 demand visibility are not yet priced in.
+
+4. Set a tactical stop-loss at $775 (roughly -13% from current, below the 20-day SMA and near the bottom of the recent consolidation range) to protect against a "sell the news" shock or macro-driven gap-down.
+
+5. Upside price targets: $1,250 (Wolfe Research PT, +40%) as the first objective; $1,500 (Cantor Fitzgerald PT, +68%) as the stretch target. Reassess position sizing as these levels approach.
+
+6. Monitor key risk factors: any sign of HBM pricing weakness in channel checks, a guidance cut from a major hyperscaler (Microsoft, Google, Amazon), or a break below the Golden Cross (50-day SMA crossing below 200-day SMA) would invalidate the thesis and require exiting the position.

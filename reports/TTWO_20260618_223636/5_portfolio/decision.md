@@ -1,0 +1,13 @@
+**Rating**: Overweight
+
+**Executive Summary**: Scale into TTWO with 50-60% of maximum allocation using limit orders in the $219–$225 zone (midpoint $222), where the 10 EMA, 50 SMA, and VWMA converge as triple support. Hard stop at $200 protects the higher-low sequence. Add the remaining 40-50% only on a confirmed close above the declining 200-day SMA ($231) with volume exceeding 4M shares. Do not chase above $235. The June 25 pre-order data is the first live checkpoint—strong numbers (>10M first 24 hours) validate the thesis; weak numbers (<5M) warrant full exit regardless of price.
+
+**Investment Thesis**: The bull case carries the weight of evidence on the points that matter most. The GTA VI catalyst is concrete and imminent: Rockstar's pre-order announcement on June 25 removes the delay risk that has haunted TTWO for years, and applying GTA V's demonstrated 42.5% first-year attach rate to today's 125M console installed base yields ~53M units in year one—not the bear's straw-man "60%." The operational turnaround is undeniable and unrebutted: revenue +18% to $6.66B, gross margins +15pp to 57%, operating cash flow swinging +$669M to +$624M, debt reduced by $1.15B, and normalized EBITDA nearly doubling to $1.254B. The GAAP losses are the tail end of a completed impairment cycle (D&A declining by $580M), and the path to GAAP profitability is mathematically clear. The technical higher-low sequence ($190→$204→$214→$228) with a confirmed MACD crossover and volume-backed breakout on June 16 (3.49M shares) is objectively constructive, and the 200 SMA's decline is decelerating toward flattening.
+
+However, the bears scored legitimate points that prevent an unqualified Buy. The 93% bullish StockTwits reading is genuinely extreme—the December 2025 precedent demonstrated how similar euphoria can precede sharp reversals. The FCF yield of ~1% on a $44B market cap leaves razor-thin margin for error if pre-orders are merely "good" rather than "record-shattering." The $4.97B in remaining goodwill is a tail risk. Macro headwinds—a hawkish Fed transition under Warsh, a strong dollar, and broader market valuation concerns—add genuine drag that the bull's valuation math doesn't fully account for. The May 22 rejection at $238 on 7M shares confirms overhead supply is real.
+
+Overweight captures the constructive view while respecting these risks. The asymmetric upside (20-30% to $250+ on GTA VI cycle) versus defined downside (10% stop on a half-position) favors the long side, but the sentiment extremes and macro backdrop demand disciplined scaling rather than full-conviction commitment.
+
+**Price Target**: 260.0
+
+**Time Horizon**: 6-12 months (through GTA VI launch and initial post-launch FY2027 earnings)

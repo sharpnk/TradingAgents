@@ -1,0 +1,15 @@
+**Rating**: Overweight
+
+**Executive Summary**: Initiate a ¼ position at current levels (~$227 CAD) with a stop at $210, just below the June 10 cycle low. Scale in with a second ¼ on a confirmed close above the 10 EMA ($229.69) with volume exceeding 1.1M shares, and deploy the final ½ on a MACD bullish crossover. Hold 25–30% cash reserve for deeper dips below $200. The exceptional fundamentals ($2.79B net cash, 66.4% gross margins, 11.21x forward P/E, $2B buyback) justify constructive exposure, but near-term technical damage (price below all MAs, death cross risk, bearish MACD) and macro uncertainty from the Iran peace deal warrant a phased, confirmation-driven build rather than an aggressive entry.
+
+**Investment Thesis**: The bull case rests on fundamentals that are hard to dispute. Agnico Eagle generated $4.26B in free cash flow in FY2025, posted 66.4% gross margins in Q1 2026, holds $2.79B in net cash, and returned $371M to shareholders in a single quarter ($168M buybacks + $203M dividends). The forward P/E of 11.21x against 37% expected EPS growth represents a statistical anomaly for a blue-chip gold miner. The $2B buyback authorization signals management's conviction that intrinsic value exceeds the current price. Even under conservative assumptions—gold at $2,300, margins compressing to 55%, P/E at 12x—the math supports positive expected returns. The 38% correction from all-time highs has already de-risked entry.
+
+However, the bear's technical case carries genuine weight. Price closed below all major moving averages (10 EMA, 20 SMA, 50 SMA, 200 SMA). The 50 SMA at $261.27 is converging on the 200 SMA at $254.17—a death cross likely within 1.5–2 weeks that could trigger algorithmic selling. The MACD at -10.62 has been negative for three months. The VWMA at $234.70 sits above current price, indicating rallies have been sold into. The Iran peace deal directly unwinds the safe-haven premium embedded in gold, and while lower oil reduces AEM's input costs, the net macro effect is mixed with a near-term bearish tilt for gold. The Conservative's caution about gap risk (a macro shock could open AEM well below a $190 stop) is well-founded.
+
+The high-volume bounce from $211 (1.5M shares on consecutive up days) and the narrowing MACD histogram are genuine signs of selling exhaustion, but they are necessary—not sufficient—conditions for a trend reversal. The Aggressive Analyst's historical pattern argument (every major AEM bottom looked like this) is suggestive but cannot be treated as proof.
+
+The Overweight rating synthesizes these views: the fundamentals warrant positive exposure, but the technical and macro headwinds demand phased execution with confirmation triggers rather than an all-at-once Buy. The laddered approach converts the bear's downside scenarios into accumulation opportunities while preventing overexposure to a potential false bounce. A stop at $210—just below the cycle low of $211.10—caps initial tranche risk at 7.5% (~0.09% of portfolio) while providing enough breathing room to avoid whipsaw on a normal retest.
+
+**Price Target**: 254.0
+
+**Time Horizon**: 3-6 months

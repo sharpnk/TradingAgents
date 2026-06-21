@@ -1,0 +1,13 @@
+**Recommendation**: Underweight
+
+**Rationale**: This was a vigorous, data-rich debate. The Bull anchored on forward earnings power, revenue momentum, the net cash balance sheet, and the structural integrity of the moving-average stack. The Bear countered with a technically compelling argument centered on the fresh, accelerating MACD sell signal, the 3:1 volume imbalance favoring distribution, the 53% premium above the 200-day SMA—a setup that closely mirrors the November 2025 pre-crash configuration—and the uncomfortable reality that the forward P/E requires net margins the company has never achieved. 
+
+Both sides scored points: the Bull is right that MDA is a genuine growth compounder with real backlog and sector tailwinds, and that the balance sheet is no longer a risk. But the Bear carried the argument on the immediate risk/reward equation. The technical deterioration (MACD histogram doubling negative, VWMA above price, declining volume on the bounce) is not ambiguous, and the valuation still embeds heroic margin assumptions. The sentiment vacuum—zero news, zero social chatter—amplifies the risk of a momentum unwind.
+
+The Bull's long-term thesis remains intact, which is why a full exit would be premature. But the near-term setup favors the bears: the weight of the evidence points to a higher probability of retesting $49–50 than reclaiming $68 in the current quarter. The prudent response is to reduce exposure, protect the substantial YTD gains, and wait for either a cleaner technical reset or fundamental confirmation that margins are inflecting before redeploying capital.
+
+**Strategic Actions**: 1. **Trim the position by 25–50%** at current levels (~$57.05), prioritizing lots with the highest embedded gains to lock in the 112% YTD return.
+2. **Set a hard stop** on the remaining position at $49.00 (below the 50-day SMA and the June 9 low of ~$52.50), giving the trade room to breathe but protecting against a repeat of the November 2025-style drawdown.
+3. **Place a scale-down buy order** at $46–48 (the prior May 2025 spike-high zone) to rebuild exposure at a materially better risk/reward if the correction deepens.
+4. **Monitor for reversal triggers** before adding back: a bullish MACD crossover on the daily, a high-volume accumulation day (>2M shares) closing above the VWMA of $59.10, or a Q2 earnings beat with margin expansion above 7% net.
+5. **Sizing guidance:** After trimming, the residual position should represent a half-weight relative to a standard conviction holding. No capital should be added until either the technical picture cleans up or forward estimates become demonstrably achievable.
