@@ -1,0 +1,19 @@
+**Recommendation**: Overweight
+
+**Rationale**: This was a deeply contested debate, and both sides brought real firepower. The Bull anchored on the fundamental acceleration — $22.97B revenue (+48% YoY), Mounjaro +91%, EPS +170% in Q1, guidance raised twice, operating margins at 49.4%, and a forward P/E of ~25.9x against 53% forward EPS growth. The Bear countered with discipline: a 4.9% rally on a $2B beat suggests the news was largely in the price, the forward earnings yield (3.9%) trails the 10-year Treasury (4.63%), cash conversion is weak at ~29% of net income, one molecule drives two-thirds of revenue, and the technical report says HOLD — not BUY — with MACD negative and RSI neutral.
+
+Where the Bull wins the argument is on trajectory, not price. The Bear is right that LLY is not cheap, but the Bear's framing treats LLY like a mature pharma company that should trade at 10–15x — and it simply isn't one. Earnings are compounding at 50%+, the capacity build-out ($13B in construction-in-progress) is a visible catalyst pipeline, the competitive gap over Novo is widening, and the GLP-1 market remains under-penetrated globally. The Bear's "wait for $1,027" is a timing call that risks missing the next leg entirely if earnings continue to outrun the multiple. The Bull's recommended entry discipline — accumulate on pullbacks to $1,100–$1,153, add on a confirmed breakout above $1,210–$1,230, stop below $1,109 — is the more practical framework.
+
+I land on Overweight rather than Buy because the near-term technical setup (MACD negative, price at the Bollinger mid-band, risk/reward roughly balanced) and the genuine concentration risk warrant a measured pace of accumulation, not an all-in commitment. But the fundamental case is too powerful to sit in Hold. The Bull carried the argument on the durability of the earnings supercycle; the Bear rightly cautions on price. The synthesis is: own it, add methodically on weakness, but don't chase blindly.
+
+**Strategic Actions**: 1. **Maintain existing positions** — do not sell or trim. The primary uptrend (price above rising 50-day and 200-day SMAs) remains intact, and the fundamental engine supports holding through near-term chop.
+
+2. **Accumulate on pullbacks into the $1,100–$1,153 zone.** This is the technical report's identified accumulation area, and it aligns with the post-earnings dip that just produced a high-volume reversal. Scale in gradually — no need to deploy the full intended position at once.
+
+3. **Add more aggressively on a confirmed close above $1,210–$1,230 with expanding volume and MACD turning positive.** This would signal the next leg toward the July highs ($1,249) and beyond. Treat this as the upgrade trigger — conviction rises materially on this signal.
+
+4. **Set a hard stop-loss on any net-new positions at a high-volume close below $1,109.** A break below that level opens the door to $1,060 and then the 200-day SMA near $1,027, which would warrant a full reassessment of the near-term thesis. Use wide stops (ATR-based, roughly $62–$83) given the stock's 3.5% daily swing range.
+
+5. **Position size conservatively relative to portfolio.** Given the ~$41 ATR, a single-position risk of 5–8% from current levels to invalidation suggests a smaller-than-usual allocation for new money. Let the breakout confirmation justify scaling up.
+
+6. **Monitor the key risk triggers:** any safety signal on tirzepatide, a CMS pricing/reimbursement shock, a competitor oral GLP-1 approval with superior data, or a quarter where sequential growth materially disappoints (below ~$22B revenue run-rate). Any of these would challenge the Overweight thesis and may warrant a downgrade to Hold or Underweight.

@@ -1,0 +1,19 @@
+**Rating**: Overweight
+
+**Executive Summary**: Initiate a scaled entry into SOXX at current levels (~$611) with a three-tranche approach: 40% now, 35% limit at $589–$592, 25% reserved for post-Micron deployment. Hard stop at $565 on a daily close invalidates the thesis. This is a measured accumulation of a secular winner at a 6.6% discount—not a "back up the truck" moment. The bull case carries more weight, but the 43.55x P/E and MACD near crossover demand disciplined sizing and strict risk controls.
+
+**Investment Thesis**: The aggressive analyst wins the debate on three decisive points that the conservative and neutral analysts could not refute. First, the yield curve has not inverted—the 10Y-2Y spread remains positive at +27 bps, and every US recession since 1960 was preceded by an actual inversion, not merely flattening. The bear's recession argument relies on a signal that has not fired. Second, the 6.6% single-day crash with 4.6M shares traded is the unwind of the 80% consensus long positioning—a clearing event, not acceleration of selling. Third, the fundamental growth story, while decelerating from 400% to 200% to 100%, remains exceptionally strong in absolute terms: $1.3T industry revenue, $200B+ in committed hyperscaler capex, and a PEG ratio near 1.1x on 30%+ earnings growth. A 1.1x PEG is not bubble territory.
+
+However, the conservative analyst scored legitimate points that prevent a full Buy recommendation. The 43.55x trailing P/E sits at the 95th historical percentile, leaving zero room for error on earnings. The AI cost-cutting narrative—while currently about inference optimization rather than training demand—introduces genuine uncertainty about 2027 capex trajectories. The MACD histogram at 0.86 is dangerously close to a bearish crossover that could trigger algorithmic selling. And the RSI at 57, while neutral, has not reached oversold levels that would signal a washed-out bottom; more downside is plausible.
+
+The neutral analyst's compromise—25% first tranche with a $550 stop—sacrifices 15 percentage points of upside participation for a negligible 0.5% reduction in portfolio downside (2.5% vs. 3.0%). This is an unfavorable risk-adjusted trade-off. The aggressive analyst's 40% tranche with a $565 stop aligns with the 10 EMA support level that held on a closing basis, and the three-tranche structure provides ample flexibility to average down if the pullback deepens.
+
+The Micron earnings catalyst this week is a binary event with positive expected value—historical beat rates run ~70-80%. But sizing reflects the possibility of a miss. If Micron beats, SOXX gaps toward $635–$640 and Tranche 3 adds on confirmation. If Micron misses and SOXX tests $570–$575, Tranche 3 adds at deeply discounted levels near the June 1 low. The hard stop at $565—below the June 1 low of $571—protects against a structural trend break.
+
+Macro tailwinds support the thesis: oil at four-month lows reduces input costs for chip manufacturing, the Iran ceasefire removes a geopolitical risk premium, and recession odds sit at just 12% and falling. The 80% probability of no rate cuts is already priced into the 10-year at 4.46%. Retail dip-buying at a 1.8:1 bullish ratio on StockTwits provides short-term support that institutions underestimate. The book-value floor at $424 (31% below current price) provides a distant but real long-term backstop.
+
+The right posture is Overweight: maintain or gradually build positions with disciplined scaling and hard risk-management stops. The target of $700–$750 by year-end is achievable if the secular AI buildout thesis remains intact. Take one-third off at $700, let the remainder run with a trailing stop at the 50 SMA.
+
+**Price Target**: 700.0
+
+**Time Horizon**: 6-9 months

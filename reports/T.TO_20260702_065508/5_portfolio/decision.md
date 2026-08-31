@@ -1,0 +1,15 @@
+**Rating**: Hold
+
+**Executive Summary**: Maintain current position in T.TO at neutral portfolio weight with a hard stop-loss at $14.80. The stock's 14% bounce from the June 30 capitulation low of $15.00 to $17.18 has removed the asymmetric entry point. Risk/reward is genuinely balanced: strong $4.87B operating cash flow and an extreme oversold RSI of 19.92 support the bull case, while Q1 2026 negative free cash flow of -$60M, the $24B Ontario capex overhang, and an 11% yield that historically signals dividend-cut risk support the bear case. Do not add or reduce ahead of Q2 2026 earnings.
+
+**Investment Thesis**: The Hold rating reflects a genuinely conflicted risk/reward profile where neither the bull nor bear case commands decisive weight.
+
+**Bull case evidence**: TELUS generated $4.87B in operating cash flow in 2025, covering the $1.63B dividend 1.44x on a free cash flow basis ($2.35B FCF). The RSI reached 19.92 on 3x normal volume — a textbook capitulation pattern that historically precedes mean-reversion bounces. The forward P/E of 15.1x and PEG near 1.0 are not stretched for Canada's most-awarded wireless network (Opensignal). CapEx as a percentage of revenue has structurally declined from 20% to a guided 12.4%. Management reduced net debt by $500M in Q1 2026, demonstrating active deleveraging. The AI pivot through ElevenLabs and SMART CX provides a non-telecom growth vector.
+
+**Bear case evidence**: Q1 2026 posted negative free cash flow of -$60M, with CapEx annualizing to $4.32B against a $4.08B OCF run rate — a trajectory that, if sustained, would consume all free cash flow and threaten the dividend. The $24B Ontario commitment over five years (~$4.8B/year) will pressure spending materially higher. The 11% yield in a mature Canadian telecom is historically a dividend-cut signal, not a buying opportunity, and the 78% probability of no Fed cuts in 2026 means income investors have risk-free alternatives at 4.5%. TELUS Digital's 2.2% net margin undermines the "high-margin AI pivot" narrative. The death cross remains intact with no MACD crossover or 200-SMA reclaim to confirm trend reversal. Negative tangible book value of -$15.47B and 190% debt-to-equity are materially worse than peers.
+
+**Balance of evidence**: The bull's cash flow argument is backward-looking (benefiting from 2025's temporarily suppressed CapEx of $2.52B), while the bear's Q1 2026 annualization may overstate the full-year run rate given seasonal front-loading. Neither side can definitively dismiss the other. The market is already pricing considerable bad news, but the bad news may still be unfolding. The 14% bounce from the capitulation low removes the asymmetric entry the bull originally identified, leaving risk/reward neutral at $17.18.
+
+**Key catalysts**: Q2 2026 earnings (expected late July/early August) will be decisive. OCF recovery above a $4.5B annual run rate, flat or declining CapEx guidance, and management reaffirming the dividend without caveats would support an upgrade to Overweight. Continued OCF deterioration or dividend-policy language changes would support downgrade to Sell.
+
+**Time Horizon**: 3-6 months

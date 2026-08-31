@@ -1,0 +1,15 @@
+**Rating**: Overweight
+
+**Executive Summary**: Maintain a constructive Overweight stance on RDDT but hold current fire at $191.83. Deploy a three-tranche accumulation strategy: first tranche (0.5–0.75%) on a pullback to the $184–$188 zone aligned with the 200-day SMA; second tranche only after a volume-validated hold above $184 (≥1.5x 20-day average volume, candle closing in upper half); third tranche reserved for a catalyst-driven dip tied to the Warsh Fed meeting or Q2 earnings. Hard stop at $168. Target $225 initial, $250–$260 stretch. No chasing above $192.
+
+**Investment Thesis**: Reddit has undergone a genuine fundamental transformation: first GAAP-profitable year, $1.2B annualized free cash flow run-rate (47% FCF margin), $2.77B cash with negligible debt, declining SBC as a percentage of revenue (61.6% → 10.3%), and a forward P/E of 21x that is reasonable for 69% YoY revenue growth. The AI data-licensing moat is a durable, non-replicable competitive advantage — Reddit's corpus of authentic human conversation commands recurring value in an era of AI model training.
+
+However, the technical setup demands patience. The July 1 breakout, while structurally significant (first close above the 200-day SMA since the February crash), is overextended: price sits $3.54 above the upper Bollinger Band (a >2-standard-deviation event), 10.7% above the 10-day EMA, and the breakout volume of 2.54M shares was only 2.6% above the prior session — far below the 2–3x average volume typical of institutional accumulation. The VWMA at $169.93 means the average volume-weighted entry is $22 below current price, creating a profit-taking overhang. 100% bullish StockTwits labeling is a contrarian yellow flag, and the approaching Fed transition to Kevin Warsh introduces macro uncertainty that a high-beta name (1.91) will feel acutely.
+
+The 200-day SMA at $184.85 is the critical retest level. A pullback to $184–$188 offers an asymmetric risk/reward: 8.7% downside to the $168 stop versus 22% upside to the $225 initial target (2.5:1 ratio), with a stretch target of $250–$260. The three-tranche structure respects the near-term mean-reversion risk while positioning for the structural re-rating. The Neutral Analyst's volume filter on the second tranche is adopted as prudent risk management; the Conservative Analyst's five-condition wish list is rejected as paralysis by analysis that would likely result in entering after the risk/reward has deteriorated. The Aggressive Analyst correctly identifies the fundamental inflection but underweights the statistical pullback probability.
+
+The 27.9% YTD decline already embeds considerable bad news. Overweight captures directional conviction while acknowledging the optimal entry is likely lower than today's $191.83.
+
+**Price Target**: 225.0
+
+**Time Horizon**: 6-12 months

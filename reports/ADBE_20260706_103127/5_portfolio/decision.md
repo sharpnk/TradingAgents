@@ -1,0 +1,21 @@
+**Rating**: Underweight
+
+**Executive Summary**: Reduce ADBE position by 25–35% to achieve an Underweight allocation, executing sales into strength near the 50-day SMA at ~$234. Maintain a hard stop at $190 and a core position to capture asymmetric upside if the nascent technical recovery gains traction, but do not add on dips until a weekly close above the 50-day SMA or a fundamental AI-monetization catalyst materializes.
+
+**Investment Thesis**: The bear case carried the debate on net, but the bull's margin-of-safety argument prevents a full Sell. Three structural concerns drive the Underweight rating.
+
+First, the buyback math undermines the headline valuation story. Adobe deployed $11.28B in buybacks during FY2025 against net income of $7.13B, meaning the 11.4% FCF yield and EPS growth are partially balance-sheet funded. While debt-to-equity of 61% and 34x interest coverage provide near-term capacity, the sustainability question is real: if buybacks again exceed operating cash flow in the next earnings release, the thesis weakens further. This is not a value trap — $10B in annual FCF with minimal capex is genuine — but the cheap multiple is not as clean as it appears.
+
+Second, the technical picture is a textbook range-bound setup with bearish long-term structure. Price is 24% below the 200-day SMA, and every rally over the past 12 months has failed at the 50-day SMA (~$234). The short-term signals are genuinely encouraging — MACD histogram turning positive, RSI recovering from oversold 27.7 to neutral 49.8, price reclaiming the 10 EMA and Bollinger middle band — but these indicate a pause in selling pressure, not a trend reversal. The Neutral Analyst correctly frames this as a range between $210 support and $234 resistance, with a high probability of failure at the upper bound.
+
+Third, macro headwinds are structural rather than cyclical. The Fed holding at 3.63% with 78% probability of no cuts in 2026 reprices long-duration equity. The rotation from growth/tech into value and dividend stocks (software -11.4% YTD vs. dividend stocks +12.6%) is persistent, and sticky core PCE at 2.89% provides no catalyst for a dovish pivot. The VIX decline to 15.8 signals reduced fear — a modest tailwind — but does not offset the rate regime.
+
+The bull's counterarguments are valid but insufficient to warrant a Hold. David Ricks' 130% insider stake increase is a high-conviction signal, but from a small base and a single board member; it does not neutralize Citi's "least preferred" designation or Phillip Securities' 47% target cut to $203. The freemium MAU expansion from 50M to 90M is promising but represents a multi-year monetization journey, not a near-term revenue catalyst. The $14B in goodwill, largely from the Figma acquisition, is not an imminent impairment risk given $5.6B cash and $10B annual FCF, but it does concentrate balance-sheet risk if growth dips below 10%.
+
+The Neutral Analyst's framework is the most defensible: reduce 25–35% at $234, selling into strength rather than panic, while maintaining a core position with a defined $190 stop. This captures 7–8% upside from current levels, limits downside to ~13%, and preserves exposure to the asymmetric upside the Conservative Analyst rightly identifies if the MACD recovery develops into a genuine breakout. The Aggressive Analyst's call to sell immediately at $218 forfeits that near-term mean-reversion potential and locks in losses at a 39% discount from the 52-week high. The Conservative Analyst's preference for a 10% trim underexposes the firm to the structural risks that have repeatedly capped rallies at the 50-day SMA.
+
+Price target is set at the identified resistance of $234 for initial trim execution. The stop at $190, below the June capitulation low and VWMA, provides a clean invalidation level. Time horizon of 3–6 months aligns with the next two earnings cycles, which will provide critical data on revenue-growth stabilization and buyback sustainability.
+
+**Price Target**: 234.0
+
+**Time Horizon**: 3-6 months
